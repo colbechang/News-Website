@@ -1,4 +1,4 @@
-# Sports-News-Website
+# News-Website
 
 NewsGrid is a mock news reporting website which reports news ranging from sports, technology, and entertainment.
 
